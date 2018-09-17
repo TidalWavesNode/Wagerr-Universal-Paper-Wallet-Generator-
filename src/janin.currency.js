@@ -276,6 +276,7 @@ janin.currencies = [
     janin.currency.createCurrency ("VikingCoin",          0x46, 0x56, "3",    "D"    , "VJXz1cD1mDGQmu52aDdd7Q2G5ejqA6mcqw"),
     janin.currency.createCurrency ("W2Coin",              0x49, 0xc9, "7",    "W"    , "Wa3AvKUP5J3BpEa93nwKHPAAQ2P1XdTCeU"),
     janin.currency.createCurrency ("WACoins",             0x49, 0xc9, "7",    "W"    , ""),
+    janin.currency.createCurrency ("Wagerr",              0x49, 0xc7, "5",    "[LK]" , "WgqRHDktrKVLbX8tPDcyXTxVeNmqP4SLY1"),
     janin.currency.createCurrency ("WankCoin",            0x00, 0x80, "5",    "[LK]" , "1CnEFZZxJQkNAvgFGdRV5JEKShkNj1LRWL"),
     janin.currency.createCurrency ("WeAreSatoshiCoin",    0x87, 0x97, "6",    "P"    , "wSEgPsCGqQESLDyzBJkwCXvMP1z3e1Qi3X"),
     janin.currency.createCurrency ("WorldCoin",           0x49, 0xc9, "7",    "W"    , "WNmGkn2WQZKS6xKHEsj5AqSbuE4sh9Upyb"),
